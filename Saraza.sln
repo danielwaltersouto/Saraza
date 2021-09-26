@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31624.102
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Saraza", "Saraza.csproj", "{78C92262-0DA1-4F07-B519-7135EB31FDE1}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entidades", "..\Entidades\Entidades.csproj", "{6216FFB0-7884-4F83-869A-BA0406C26D73}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Acceso", "..\Acceso\Acceso.csproj", "{74A67624-F801-4654-9890-9E65D9F3528F}"
@@ -19,10 +17,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{78C92262-0DA1-4F07-B519-7135EB31FDE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{78C92262-0DA1-4F07-B519-7135EB31FDE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{78C92262-0DA1-4F07-B519-7135EB31FDE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{78C92262-0DA1-4F07-B519-7135EB31FDE1}.Release|Any CPU.Build.0 = Release|Any CPU
 		{6216FFB0-7884-4F83-869A-BA0406C26D73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{6216FFB0-7884-4F83-869A-BA0406C26D73}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6216FFB0-7884-4F83-869A-BA0406C26D73}.Release|Any CPU.ActiveCfg = Release|Any CPU
